@@ -1,8 +1,7 @@
 <div align="center">
   <br />
-    
-      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
-    
+    <img width="1800" alt="347042676-a7dd73b6-93de-484d-84e0-e7f4e299167b" src="https://github.com/user-attachments/assets/81af7d5d-a1ff-4631-ab73-8e6c873a5a09">
+
   <br />
 
   <div>
